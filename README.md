@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
 | [0792-binary-search](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0053-maximum-subarray) |
 | [0233-number-of-digit-one](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0233-number-of-digit-one) |
 ## Recursion
 |  |
@@ -39,4 +41,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
