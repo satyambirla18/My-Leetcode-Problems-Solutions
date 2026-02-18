@@ -13,11 +13,13 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0792-binary-search) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0233-number-of-digit-one) |
