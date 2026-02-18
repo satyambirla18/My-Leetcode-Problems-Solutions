@@ -6,6 +6,6 @@ public:
         while (i * i <= x) {
             i++;
         }
-        return i - 1;   // last valid
+        return i - 1;
     }
 };
