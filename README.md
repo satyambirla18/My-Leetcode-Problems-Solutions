@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0412-fizz-buzz) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0233-number-of-digit-one) |
 ## String
 |  |
@@ -65,4 +67,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
