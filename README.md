@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0258-add-digits) |
