@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0189-rotate-array](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0233-number-of-digit-one) |
+| [0258-add-digits](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
@@ -58,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
