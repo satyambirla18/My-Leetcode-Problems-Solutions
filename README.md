@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -75,4 +76,12 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0231-power-of-two](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1009-complement-of-base-10-integer) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
