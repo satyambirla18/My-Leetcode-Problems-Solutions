@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
 | [0792-binary-search](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2974-minimum-number-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0258-add-digits](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0412-fizz-buzz) |
+| [2974-minimum-number-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,4 +88,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0292-nim-game) |
+## Sorting
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2974-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
