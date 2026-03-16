@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0412-fizz-buzz) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |
