@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
