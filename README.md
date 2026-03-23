@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2974-minimum-number-game) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Math
 |  |
 | ------- |
