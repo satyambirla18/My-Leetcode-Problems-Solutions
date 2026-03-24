@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2974-minimum-number-game) |
 ## Binary Search
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
