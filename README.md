@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2974-minimum-number-game) |
 ## Binary Search
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0412-fizz-buzz) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
