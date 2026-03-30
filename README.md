@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2974-minimum-number-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2974-minimum-number-game) |
