@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0053-maximum-subarray) |
 | [0233-number-of-digit-one](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0233-number-of-digit-one) |
 ## Recursion
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -151,4 +154,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2974-minimum-number-game) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
