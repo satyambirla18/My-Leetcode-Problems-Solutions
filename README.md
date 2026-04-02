@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0412-fizz-buzz) |
 | [2974-minimum-number-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2974-minimum-number-game) |
@@ -171,4 +173,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
