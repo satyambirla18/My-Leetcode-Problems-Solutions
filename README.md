@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
@@ -114,10 +115,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -129,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Number Theory
@@ -153,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0977-squares-of-a-sorted-array) |
