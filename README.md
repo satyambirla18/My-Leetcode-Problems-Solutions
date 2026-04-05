@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0709-to-lower-case) |
@@ -197,4 +199,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
