@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1859-sorting-the-sentence](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2785-sort-vowels-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1552-magnetic-force-between-two-balls](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1859-sorting-the-sentence](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
