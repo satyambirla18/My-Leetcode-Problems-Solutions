@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0069-sqrtx) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0409-longest-palindrome) |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
