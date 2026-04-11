@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0412-fizz-buzz) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
@@ -223,4 +225,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
