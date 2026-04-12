@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0709-to-lower-case](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0409-longest-palindrome) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Queue
 |  |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Number Theory
 |  |
 | ------- |
