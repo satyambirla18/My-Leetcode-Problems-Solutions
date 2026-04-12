@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0709-to-lower-case](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1859-sorting-the-sentence) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
