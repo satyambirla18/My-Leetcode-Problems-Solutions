@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0415-add-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1922-count-good-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Dynamic Programming
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0233-number-of-digit-one) |
+| [1922-count-good-numbers](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
