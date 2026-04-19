@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2785-sort-vowels-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3019-number-of-changing-keys) |
 ## Simulation
 |  |
 | ------- |
