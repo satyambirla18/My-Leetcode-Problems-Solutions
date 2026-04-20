@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0415-add-strings) |
+| [0779-k-th-symbol-in-grammar](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1903-largest-odd-number-in-string](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1922-count-good-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0233-number-of-digit-one) |
+| [0779-k-th-symbol-in-grammar](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1922-count-good-numbers) |
 ## String
 |  |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0231-power-of-two](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1009-complement-of-base-10-integer](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1009-complement-of-base-10-integer) |
 ## Brainteaser
 |  |
