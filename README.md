@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0035-search-insert-position) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0242-valid-anagram) |
