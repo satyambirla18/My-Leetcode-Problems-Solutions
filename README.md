@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0016-3sum-closest) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0018-4sum) |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0409-longest-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
