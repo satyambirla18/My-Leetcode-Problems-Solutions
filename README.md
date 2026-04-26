@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -303,4 +305,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Depth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+## Union-Find
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
