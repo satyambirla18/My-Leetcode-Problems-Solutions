@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0006-zigzag-conversion](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0205-isomorphic-strings) |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
