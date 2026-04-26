@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2942-find-words-containing-character](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3024-type-of-triangle) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1539-kth-missing-positive-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3024-type-of-triangle) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -239,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2785-sort-vowels-in-a-string](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3024-type-of-triangle) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -295,4 +299,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
