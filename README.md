@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1552-magnetic-force-between-two-balls](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1672-richest-customer-wealth](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
 | ------- |
