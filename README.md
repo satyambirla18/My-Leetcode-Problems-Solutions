@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
