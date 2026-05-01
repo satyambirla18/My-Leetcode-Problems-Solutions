@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2942-find-words-containing-character](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Binary Search
 |  |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Dynamic Programming
 |  |
