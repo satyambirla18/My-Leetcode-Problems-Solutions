@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
+| [0682-baseball-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
