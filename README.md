@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1922-count-good-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
