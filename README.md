@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3024-type-of-triangle](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3783-mirror-distance-of-an-integer](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
