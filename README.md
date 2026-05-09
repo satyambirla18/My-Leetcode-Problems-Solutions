@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/satyambirla18/My-Leetcode-Problem-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1920-build-array-from-permutation](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/0682-baseball-game) |
+| [1920-build-array-from-permutation](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2974-minimum-number-game](https://github.com/satyambirla18/My-Leetcode-Problems-Solutions/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
